@@ -1,0 +1,11 @@
+
+[32minfo[39m:    Connection to Redis in module 'cache-redis' established
+[32minfo[39m:    Connection to Redis in module 'event-bus-redis' established
+[32minfo[39m:    Connection to Redis in module 'workflow-engine-redis' established
+[32minfo[39m:    Connection to Redis PubSub in module 'workflow-engine-redis' established
+[32minfo[39m:    Locking module: Using "in-memory" as default.
+[32minfo[39m:    No job to load from /Users/jfregoso/Documents/sunset/ricos-cafe/ricos-app/node_modules/@medusajs/medusa/dist/jobs. skipped.
+[?25l[36m⠋[39m Creating server[2K[1G[?25h[32m✔[39m Server is ready on http://localhost:9000 – 26ms
+[32minfo[39m:    Admin URL → http://localhost:9000/app
+[32minfo[39m:    Gracefully shutting down server
+[?25h
